@@ -1,3 +1,35 @@
+# Movie Search Web App
+
+## General Information
+
+This is a movie search web app that allows users to search The Movie Database api for any movie they would like. The app renders results in a card format that is responsive.
+
+Live demo here: https://movie-search-tmdb-api.netlify.app/
+
+## Technologies Used
+
+HTML
+CSS
+Javascrip
+React
+
+## Features
+- Input bar holds state using React useState hook which allows us to call the TMDB Api with dynamic queries.
+- Responsive design that looks great on all screen sizes
+- Each result is returned in a card that displays several pieces of information about the movie.
+
+## Project Status
+Project is: _in progress_ 
+
+
+
+
+
+
+
+----------React -----------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
