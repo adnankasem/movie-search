@@ -10,7 +10,7 @@ Live demo here: https://movie-search-tmdb-api.netlify.app/
 
 HTML
 CSS
-Javascrip
+Javascript
 React
 
 ## Features
